@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "plugin:prettier/recommended",
+    "prettier/react",
+    "prettier/standard"
+  ],
+  "singleQuote": true,
+  "trailingComma": "es5"
+}
